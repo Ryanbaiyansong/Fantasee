@@ -1,5 +1,5 @@
 # FantaSEE
-CS 591 Project
+CS 591 Project VR
 
 # Get Started:
 - Android Studio version 3.4.1 or higher
